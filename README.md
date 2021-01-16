@@ -69,4 +69,5 @@ It appears that hosts with lower acceptance rates, fast response times and lodgi
 It appears that acceptance rates have a high correlation to ratings. While 47% and 50% are lower acceptance ratings with strong correlations to ratings, on the aggregate, these acceptance rates look to be higher than the ones with high correlations to price, so perhaps hosts with higher acceptance rates score higher on ratings (potentially they are less high maintenance / picky) and this general sentiment of being relaxed scores well with guests. This would clearly need to be investigated further.
 
 VII. Other
+
 Kindly note that I have been studying data science since August 15, 2021 through Udacity. I have completed the Introduction to Programming for Data Science (Python) and the Data Analyst nanodegrees. Please advise of any feedback, as I am eager to improve my technical abilities. 
