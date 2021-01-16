@@ -17,7 +17,8 @@ Please note that I am considering moving to Boston (it is also conveniently one 
 
 With regards to the first question, if you are looking to stay in the Boston area, the neighborhoods West Roxbury and Roslindale appear to offer the best value for money.
 
-See chart_1.png for details.
+![Image 1]
+(https://github.com/harrisoncomfort3030/airbnb_boston_project/blob/main/chart_1.png)
 
 With regards to the second question, it appears that hosts with lower acceptance rates, fast response times and lodgings within certain neighborhoods have the highest correlation with prices. Frankly, I think that low acceptance rates / fast response times are indicative of hosts that take a lot of pride in their lodging, and therefore, they are able to charge a premium for their lodgings, however, this would need to be studied further.
 
