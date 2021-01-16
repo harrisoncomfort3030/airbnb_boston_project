@@ -64,6 +64,7 @@ VI. General Conclusions
 
 The neighborhoods West Roxbury and Roslindale appear to offer the best value for money.
 
+
 It appears that hosts with lower acceptance rates, fast response times and lodgings within certain neighborhoods have the highest correlation with prices. Frankly, I think that low acceptance rates / fast response times are indicative of hosts that take a lot of pride in their lodging, and therefore, they are able to charge a premium for their lodgings, however, this would need to be studied further.
 
 It appears that acceptance rates have a high correlation to ratings. While 47% and 50% are lower acceptance ratings with strong correlations to ratings, on the aggregate, these acceptance rates look to be higher than the ones with high correlations to price, so perhaps hosts with higher acceptance rates score higher on ratings (potentially they are less high maintenance / picky) and this general sentiment of being relaxed scores well with guests. This would clearly need to be investigated further.
