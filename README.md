@@ -25,7 +25,7 @@ listings.csv - a CSV file with 95 columns and 3,585 rows for unique lodging stay
 
 airbnb_project.py - a Python file that includes the aforementioned libraries, as well as analysis and outputs to inform the blog post. It attempts to follow the CRISP-DM process outlined in this course.
 
-HC_AirBnB_Blog_Post - a text file that attempts to summarize the key takeaways from the CRISP-DM process.
+blog_post.md - a text file that attempts to summarize the key takeaways from the CRISP-DM process.
 
 IV: Necessary Acknowledgments:
 In addition to the above libraries, these online resources: https://pbpython.com/currency-cleanup.html, https://jamesrledoux.com/code/group-by-aggregate-pandas, https://stackoverflow.com/questions/49791246/drop-columns-with-more-than-60-percent-of-empty-values-in-pandas, as well as the Pandas documentation. I also received support from Udacity instructor Rajat S on my LinearRegression function.
