@@ -9,7 +9,7 @@ AirBnB completed a initial public offering in December 2020 and is currently has
 
 Naturally, I look to maximize value from the platform in both capacities. As part of my Udacity Introduction to Data Science NanoDegree, I chose to work with AirBnB Data from the Boston area to answer some questions to help assist in this mission.
 
-Please note that I am considering moving to Boston (it is also conveniently one of the datasets provided by Udacity :D), so find three key questions that I am seeking to explore in this dataset:
+Please note that I am considering moving to Boston (it is also conveniently one of the datasets provided by Udacity :D). Find three key questions that I am seeking to explore in this dataset bwlow:
 
 1) What neighborhoods in Boston have the best value for money?
 2) What factors impact price per lodging?
@@ -17,12 +17,15 @@ Please note that I am considering moving to Boston (it is also conveniently one 
 
 With regards to the first question, if you are looking to stay in the Boston area, the neighborhoods West Roxbury and Roslindale appear to offer the best value for money.
 
-![Image 1]
-(https://github.com/harrisoncomfort3030/airbnb_boston_project/blob/main/chart_1.png)
+Chart 1: https://github.com/harrisoncomfort3030/airbnb_boston_project/blob/main/chart_1.png
 
 With regards to the second question, it appears that hosts with lower acceptance rates, fast response times and lodgings within certain neighborhoods have the highest correlation with prices. Frankly, I think that low acceptance rates / fast response times are indicative of hosts that take a lot of pride in their lodging, and therefore, they are able to charge a premium for their lodgings, however, this would need to be studied further.
 
+Chart 2: https://github.com/harrisoncomfort3030/airbnb_boston_project/blob/main/chart_2.png
+
 With regards to the third question, it appears that acceptance rates have a high correlation to ratings. While 47% and 50% are lower acceptance ratings with strong correlations to ratings, on the aggregate, these acceptance rates look to be higher than the ones with high correlations to price, so perhaps hosts with higher acceptance rates score higher on ratings (potentially they are less high maintenance / picky) and this general sentiment of being relaxed scores well with guests. This would clearly need to be investigated further.
+
+Chart 3: https://github.com/harrisoncomfort3030/airbnb_boston_project/blob/main/chart_3.png
 
 Do you agree with these assessments? 
 
