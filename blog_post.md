@@ -1,4 +1,4 @@
-# airbnb_boston_project_blog_post
+# Airbnb_boston_project_blog_post
 Udacity Intro to Data Science Project
 
 Date: January 16, 2021.
