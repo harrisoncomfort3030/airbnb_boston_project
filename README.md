@@ -19,13 +19,19 @@ from sklearn.metrics import r2_score, mean_squared_error
 %matplotlib inline
 
 III. Files Overview
-In addition to this READ_ME.md, there are three other key files in this repository:
+In addition to this READ_ME.md, there are other key files in this repository:
 
 listings.csv - a CSV file with 95 columns and 3,585 rows for unique lodging stays in the Boston Area. The columns include various information about the host, property, listing, guest and review. With this dataset, it is clear that we will be able to explore topics relevant to my interest area: best value for money and factors that impact price / ratings.
 
 airbnb_project.py - a Python file that includes the aforementioned libraries, as well as analysis and outputs to inform the blog post. It attempts to follow the CRISP-DM process outlined in this course.
 
 blog_post.md - a text file that attempts to summarize the key takeaways from the CRISP-DM process.
+
+chart_1.png - a chart that addresses the first question
+
+chart_2.png - a chart that addresses the second question
+
+chart_3.png - a chart that addresses the third question
 
 IV: Necessary Acknowledgments:
 In addition to the above libraries, these online resources: https://pbpython.com/currency-cleanup.html, https://jamesrledoux.com/code/group-by-aggregate-pandas, https://stackoverflow.com/questions/49791246/drop-columns-with-more-than-60-percent-of-empty-values-in-pandas, as well as the Pandas documentation. I also received support from Udacity instructor Rajat S on my LinearRegression function.
