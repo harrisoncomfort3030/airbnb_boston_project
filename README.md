@@ -25,7 +25,7 @@ listings.csv - a CSV file with 95 columns and 3,585 rows for unique lodging stay
 
 airbnb_project.py - a Python file that includes the aforementioned libraries, as well as analysis and outputs to inform the blog post. It attempts to follow the CRISP-DM process outlined in this course.
 
-blog_post.md - a text file that attempts to summarize the key takeaways from the CRISP-DM process.
+blog_post.md - a text file that attempts to summarize the key takeaways from the CRISP-DM process. Please see Medium link: https://harrison-comfort.medium.com/airbnb-boston-data-udacity-intro-to-data-science-project-32149c883e47 for the official blog post for the project.
 
 chart_1.png - a chart that addresses the first question
 
@@ -70,7 +70,6 @@ VI. General Conclusions
 
 The neighborhoods West Roxbury and Roslindale appear to offer the best value for money.
 
-
 It appears that hosts with lower acceptance rates, fast response times and lodgings within certain neighborhoods have the highest correlation with prices. Frankly, I think that low acceptance rates / fast response times are indicative of hosts that take a lot of pride in their lodging, and therefore, they are able to charge a premium for their lodgings, however, this would need to be studied further.
 
 It appears that acceptance rates have a high correlation to ratings. While 47% and 50% are lower acceptance ratings with strong correlations to ratings, on the aggregate, these acceptance rates look to be higher than the ones with high correlations to price, so perhaps hosts with higher acceptance rates score higher on ratings (potentially they are less high maintenance / picky) and this general sentiment of being relaxed scores well with guests. This would clearly need to be investigated further.
@@ -78,3 +77,5 @@ It appears that acceptance rates have a high correlation to ratings. While 47% a
 VII. Other
 
 Kindly note that I have been studying data science since August 15, 2021 through Udacity. I have completed the Introduction to Programming for Data Science (Python) and the Data Analyst nanodegrees. Please advise of any feedback, as I am eager to improve my technical abilities. 
+
+I was required to submit a blog post for the project. Please see it here on Medium: https://harrison-comfort.medium.com/airbnb-boston-data-udacity-intro-to-data-science-project-32149c883e47
