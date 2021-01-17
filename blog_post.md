@@ -5,7 +5,7 @@ Date: January 16, 2021.
 
 "A million dollars isn't cool. You know what's cool? A billion dollars." - The Social Network (2010)
 
-AirBnB completed a initial public offering in December 2020 and is currently has a market capitalization of $100 billion. While I sadly missed out on this massive economic upside (hopefully you didn't!), I am an active user and host of the AirBnB platform.
+AirBnB completed a initial public offering in December 2020 and currently boats a market capitalization of $100 billion. While I sadly missed out on this massive economic upside (hopefully you didn't!), I am an active user and host of the AirBnB platform.
 
 Naturally, I look to maximize value from the platform in both capacities. As part of my Udacity Introduction to Data Science NanoDegree, I chose to work with AirBnB Data from the Boston area to answer some questions to help assist in this mission.
 
